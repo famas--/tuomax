@@ -1,3 +1,24 @@
+
+	
+#wrapper {
+border-style: solid;
+border-width: 2px;
+width:800px;
+margin: 0 auto;
+}
+
+.row{
+  padding-bottom: 50px;
+}
+.cell{
+  float:left;/*fix for  buggy browsers*/         
+  width:50%;
+  font-size: 20px;
+  color: black;
+  
+}
+
 h1 {
     color: orange;
     text-align: center;
+}
